@@ -9,7 +9,7 @@ public class TestGit : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //¿Í ±ê °³»ç±â
+        //wow so op git
         
     }
 
@@ -17,5 +17,10 @@ public class TestGit : MonoBehaviour
     void Update()
     {
         
+    }
+    void Add(int a, int b)
+    {
+        int c = a + b;
+        Debug.Log(c);
     }
 }
